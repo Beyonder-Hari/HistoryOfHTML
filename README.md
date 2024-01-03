@@ -42,7 +42,7 @@ color: red;
 <h1 id= "home"> HTML: A Basic Guide</h1>
 </marquee>
 <ul>
-  <li><a class="active" href="#https://beyonder-hari.github.io/HTMLBasicGuide/">Home</a></li>
+  <li><a class="active" href="https://beyonder-hari.github.io/HTMLBasicGuide/">Home</a></li>
   <li><a href="https://beyonder-hari.github.io/HTMLTags/">HTML Tags</a></li>
   <li><a href="https://beyonder-hari.github.io/HistoryOfHTML/">History</a></li>
    <li><a href="https://beyonder-hari.github.io/HTMLSources/">Other Sources</a></li>

@@ -50,7 +50,7 @@ color: red;
   <li><a href="https://beyonder-hari.github.io/AboutMe/">About</a></li>
 </ul>
 <h1 align="center"> History of HTML</h1>
-<h3>*WARNING: This content of history is too long for an average kid to read. You will get bored. Read with caution*</h3>
+<h3>*WARNING: This content of history is too long to read. You will get bored. Read with caution*</h3>
 <h1> The Full History: Book 1</h1>
 <h2>In 1980, physicist Tim Berners-Lee, a contractor at CERN, proposed and prototyped ENQUIRE, a system for CERN researchers to use and share documents. In 1989, Berners-Lee wrote a memo proposing an Internet-based hypertext system. Berners-Lee specified HTML and wrote the browser and server software in late 1990. That year, Berners-Lee and CERN data systems engineer Robert Cailliau collaborated on a joint request for funding, but the project was not formally adopted by CERN. In his personal notes of 1990, Berners-Lee listed "some of the many areas in which hypertext is used"; an encyclopedia is the first entry.
 <br><br>
